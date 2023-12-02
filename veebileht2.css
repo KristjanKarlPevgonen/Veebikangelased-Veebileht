@@ -1,0 +1,30 @@
+body {
+    background-image: url("https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/5CF7/production/_105999732_ronaldo.jpg"), url("https://img.bundesliga.com/tachyon/sites/2/2020/03/imago06986929h-scaled.jpg?crop=196px,0px,2167px,1733px");
+    background-position: left, right;
+    background-repeat: no-repeat, no-repeat;
+    background-position-x: calc(170% + 700px), calc(30% - 200px); /* Pildi järgi peab paika panema, et sobituks */
+    background-position-y: bottom, bottom;
+    background-size: auto 100%;
+    background-attachment: fixed;
+    margin: 0; /* Kõrvaldab lehe piirid ja täidab kogu lehe */
+}
+
+.sisu {
+    width: 780px;
+    background-color: whitesmoke;
+    border: 2px solid gray;
+    padding: 30px;
+    margin: auto;
+}
+
+.pealkiri {
+    color: black;
+    text-align: center;
+}
+
+.alamkiri {
+    width: 780px;
+    background-color: whitesmoke;
+    padding: 3px 30px;
+    margin: auto;
+}
