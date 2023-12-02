@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+
+
+Rühmatöö:
+Jagasime töö natuke teistmoodi ümber, kui algses plaanis see oli.
+=======
+
+
+Rühmatöö:
+Jagasime töö natuke teistmoodi ümber, kui algses plaanis see oli.
+>>>>>>> f8ecbf6597207c7feae0b6c6c2a548eb492e691e
+Meie rühmatöö sujub plaanipäraselt.
