@@ -1,32 +1,4 @@
-body {
-    background-image: url(pildid/RonaldoKatsetuseks.png), url(pildid/MessiKatsetuseks.png);
-    background-position: left, right;
-    background-repeat: no-repeat, no-repeat;
-    background-position-x: calc(30% - 400px), calc(60% + 400px); /* Pildi järgi peab paika panema, et sobituks */
-    background-position-y: bottom, bottom;
-    background-size: auto 100%;
-    background-attachment: fixed;
-}
-
-.sisu {
-    width: 780px;
-    background-color: whitesmoke;
-    border-style: 2px solid gray;
-    border-bottom: 2px solid gray;
-    padding: 30px;
-    margin: auto;
-}
-.pealkiri {
-    color: black;
+h1 {           
+    color: aquamarine;
     text-align: center;
-}
-
-.alamkiri {
-    width: 780px;
-    background-color: whitesmoke;
-    padding-top: 3px;
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-bottom: 3px;
-    margin: auto;
 }

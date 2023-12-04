@@ -1,8 +1,8 @@
 body {
-    background-image: url(pildid/RonaldoKatsetuseks.png), url(pildid/MessiKatsetuseks.png);
+    background-image: url("https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/5CF7/production/_105999732_ronaldo.jpg?crop=100px,0px,2600px,1733px"), url("https://img.bundesliga.com/tachyon/sites/2/2020/03/imago06986929h-scaled.jpg");
     background-position: left, right;
     background-repeat: no-repeat, no-repeat;
-    background-position-x: calc(30% - 400px), calc(60% + 400px); /* Pildi järgi peab paika panema, et sobituks */
+    background-position-x: calc(170% + 1000px), calc(30% - 200px); /* Pildi järgi peab paika panema, et sobituks */
     background-position-y: bottom, bottom;
     background-size: auto 100%;
     background-attachment: fixed;
@@ -10,7 +10,7 @@ body {
 
 .sisu {
     width: 780px;
-    background-color: whitesmoke;
+    background-color:white;
     border-style: 2px solid gray;
     border-bottom: 2px solid gray;
     padding: 30px;
