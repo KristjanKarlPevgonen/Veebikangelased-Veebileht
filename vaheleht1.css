@@ -10,13 +10,13 @@ body {
 }
 
 .sisu {
-    width: 780px;
-    background-color:white;
-    border-style: 2px solid gray;
-    border-bottom: 2px solid gray;
-    padding: 30px;
-    margin: auto;
+  width: 780px;
+  background-color: whitesmoke;
+  border: 2px solid gray;
+  padding: 30px;
+  margin: auto;
 }
+
 .pealkiri {
     color: black;
     text-align: center;
@@ -42,9 +42,15 @@ body {
     margin: auto;
 }
 
+.border-color {
+  border: 2px solid rgb(177, 247, 155);
+  border-radius: 4px;
+  background-color: rgb(177,247,155);
+  padding:15px
+}
+
 p {
     font-size:large
-
 }
 
   /* https://www.w3schools.com/howto/howto_css_dropdown.asp */
