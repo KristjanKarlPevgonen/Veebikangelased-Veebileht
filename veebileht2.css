@@ -6,7 +6,7 @@ body {
     background-position-y: bottom, bottom;
     background-size: auto 100%;
     background-attachment: fixed;
-    margin: 0; /* Kõrvaldab lehe piirid ja täidab kogu lehe */
+    margin: 0; /* kõrvaldab lehe piirid ja täidab kogu lehe */
 }
 
 .sisu {
