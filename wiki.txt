@@ -9,4 +9,3 @@ Algse koodi kirjutamine:
 
 Koodi kasutamine:
 Mitme probleemiga aitas hädast välja internet. Selleks, et saada töötav dropdown menüü või siis mitu pilti üksteise kõrvale, tuli appi lehekülg
-https://www.w3schools.com. Kasutasime koodi linkidelt https://www.w3schools.com/howto/howto_css_dropdown.asp ja https://www.w3schools.com/howto/howto_css_images_side_by_side.asp
