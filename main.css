@@ -15,7 +15,7 @@ p {
 .sisu {
   width: 780px;
   background-color: whitesmoke;
-  border: 2px solid gray;
+  border: 2px solid rgb(0, 0, 0);
   padding: 30px;
   margin: auto;
 }
