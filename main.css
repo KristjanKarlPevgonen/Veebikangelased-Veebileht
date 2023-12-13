@@ -8,11 +8,14 @@ body {
     background-attachment: fixed;
     margin: 0;
 }
-
+p {
+  font-size:large;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
 .sisu {
   width: 780px;
   background-color: whitesmoke;
-  border: 2px solid gray;
+  border: 2px solid rgb(0, 0, 0);
   padding: 30px;
   margin: auto;
 }
